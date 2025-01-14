@@ -1,0 +1,43 @@
+[
+  {
+    "id": 1,
+    "title": "강남목욕탕",
+    "description": "한 번 들어갔다 나오면 무조건 100% 피로가 회복되는 1인 강남목욕탕\n\n중요한 경기를 앞두고 완벽한 컨디션 관리를 위해서 강남목욕탕에 방문했는데, 오늘이 강남목욕탕 휴일이라니… 이대로 돌아갈 순 없다.\n\n어떻게든 들어가서 최고의 컨디션을 만들어 나와야 한다!",
+    "genre": "코믹",
+    "level": "1",
+    "rating": "4.8",
+    "local": "강남",
+    "location": "비트포비아 강남던전",
+    "open": "6일전 정각",
+    "address": "서울시 강남구 테헤란로",
+    "like": true,
+    "coverImgUrl": "https://xdungeon.net/file/theme/2/2_1141758698.jpg"
+  },{
+    "id": 2,
+    "title": " 화생설화 : Blooming",
+    "description": "자식 갖기를 원하는 부부에게 아기를 점지하고, 인간세상의 출산을 돕고, 갓난 아이를 보호하는 삼신.\n이 삼신할매의 세계에서 나는 조수로서 일하고 있다.\n\n오늘은 또 어떤 일들을 하게 될까?",
+    "genre": "판타지",
+    "level": "1",
+    "rating": "4.5",
+    "local": "홍대",
+    "location": "비트포비아 던전101",
+    "open": "6일전 정각",
+    "address": "서울 마포구 와우산로 74 2층",
+    "like": false,
+    "coverImgUrl": "https://xdungeon.net/file/theme/1/1_4586195611.png"
+  },{
+    "id": 7,
+    "title": "오늘 나는",
+    "description": "잠에서 깨고 나면,\n오늘도 나는 새로운 사람이 되어 하루를 살아간다.",
+    "genre": "드라마·서사",
+    "level": "1",
+    "rating": "4.0",
+    "local": "홍대",
+    "location": "비트포비아 홍대던전",
+    "open": "6일전 정각",
+    "address": "서울 마포구 독막로3길 30 지하2층",
+    "like": true,
+    "coverImgUrl": "https://xdungeon.net/file/theme/3/3_8186075995.png"
+  }
+
+]
